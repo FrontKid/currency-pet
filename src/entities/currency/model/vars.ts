@@ -1,0 +1,11 @@
+const PRECISION = 5;
+const CURRENCY_VALUE_FROM = 'currencyValueFrom';
+const CURRENCY_VALUE_TO = 'currencyValueTo';
+const CURRENCY_VALUE_MAX_LENGTH = 15;
+
+export {
+  PRECISION,
+  CURRENCY_VALUE_FROM,
+  CURRENCY_VALUE_TO,
+  CURRENCY_VALUE_MAX_LENGTH,
+};
